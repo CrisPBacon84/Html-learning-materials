@@ -1,1 +1,2 @@
-A collection of HTML code snippets for learning and practicing HTML.
+# Html-learning-materials
+A repository for organizing and storing all my HTML learning files.
